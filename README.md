@@ -3,7 +3,7 @@
 
 - 🔭 Je travail actuellement sur [Le projet MotiV](https://motiv.alwaysdata.net/ctrl/home/display.php)
 
-- 🌱 Je me forme sur **PHP, JS, REACT, WordPress**
+- 🌱 Je me forme sur **PHP, JS, REACT, Node**
 
 - 👨‍💻 Mes dernier projets sont visible sur [https://yamin-13.github.io/Portfolio/#](https://yamin-13.github.io/Portfolio/#)
 
